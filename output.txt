@@ -1,0 +1,13 @@
+Database created and Successfully Connected to SQLite
+SQLite Database Version is:  [('3.31.1',)]
+Command executed successfully
+('Avengers', 'Robert Downey', 'Brie  Larson', 2019, 'Sarah Finn', 'English')
+('Spider-man no way home', 'Tom Holland', 'Zendaya', 2021, 'Sami Raimi ', 'English')
+('Joker', 'Joaquin', 'Frances', 2019, 'Shayna', 'English')
+('The Dark Knight', 'Christian bale', 'Anne', 2008, 'John Papsidera', 'English')
+('Edge of Tomorrow', 'Tom Cruise', 'Emily Blunt', 2014, 'Doung Liman', 'English')
+('Inception', 'leonardo', 'Mario Cotillard', 2010, 'Christopher', 'English')
+
+
+Enter the actor name to print his movie:leonardo
+('Inception', 'leonardo', 'Mario Cotillard', 2010, 'Christopher', 'English')
